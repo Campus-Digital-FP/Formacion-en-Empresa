@@ -1,4 +1,4 @@
-![Banner](/images/edificio-campus-2025.png)
+![Banner](/images/edificio-campus-2025.jpg)
 
 # Formacion En Empresa
 
