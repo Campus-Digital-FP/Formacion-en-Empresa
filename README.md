@@ -15,28 +15,28 @@ puedan realizar sus prácticas obligatorias **de manera presencial** implementan
 
 ### Proyectos disponibles
 ---
-#### Proyecto "Herramientas Gestprof": `Disponible`
+### Proyecto "Herramientas Gestprof": `Disponible`
 - **Dirigido a**:  `DAM`/`DAW`
 - **Descripción**:
   Dentro del centro Campus Digital FP se mantiene la administración de todos los centros de FP Virtual en Aragón. Esta tarea conlleva múltiples necesidades en la gestión del profesorado: altas en cursos, bajas por diversas casuísticas, etc. Para poder hacer estas tareas menos tediosas y repetitivas, se ha empezado a desarrollar una aplicación que permita gestionarlo por el coordinado de cada centro.
 
 - **Tareas a realizar**:
- - [ ] Modificar el proyecto existente para abordar nuevas necesidades
- - [ ] Mejorar/ampliar los distintos formularios
- - [ ] Establecer sistemas de log
- - [ ] Crear un sistema de testing para la prueba automática de los sistemas
- - [ ] Generar hooks con github actions que permitan el despliegue automatizado
+  - [ ] Modificar el proyecto existente para abordar nuevas necesidades
+  - [ ] Mejorar/ampliar los distintos formularios
+  - [ ] Establecer sistemas de log
+  - [ ] Crear un sistema de testing para la prueba automática de los sistemas
+  - [ ] Generar hooks con github actions que permitan el despliegue automatizado
       
 - **Tecnologías involucradas**:
- - [ ] PHP / Laravel
- - [ ] Git / github
- - [ ] Docker
- - [ ] Scripting con Python
- - [ ] Herramientas de testing y frameworks para Php
+  - [ ] PHP / Laravel
+  - [ ] Git / github
+  - [ ] Docker
+  - [ ] Scripting con Python
+  - [ ] Herramientas de testing y frameworks para Php
          
 - **Conocimientos previos**: 
- - [ ] Fundamentos de programación
- - [ ] Desarrollo web en entorno servidor
+  - [ ] Fundamentos de programación
+  - [ ] Desarrollo web en entorno servidor
        
 ---
 ---
