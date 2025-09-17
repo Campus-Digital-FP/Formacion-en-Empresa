@@ -39,7 +39,7 @@ puedan realizar sus prácticas obligatorias **de manera presencial** implementan
   - [ ] Desarrollo web en entorno servidor
        
 ---
----
+<!--
 #### Proyecto X: (plantilla) [ESTADO: Disponible, Reservado, En desarrollo]
 - **Dirigido a**:  <DAM/DAW/ASIR/SMR>
 - **Descripción**:  
@@ -48,4 +48,4 @@ puedan realizar sus prácticas obligatorias **de manera presencial** implementan
 
 - **Tecnologías involucradas**:  
 - **Conocimientos previos**: 
------
+-->
